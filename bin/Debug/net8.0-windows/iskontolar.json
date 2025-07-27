@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "TedarikciId": 4445,
+    "YumurtaTipi": 1,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0055,
+    "TamAciklama": "ABALIO\u00D0LU BALIK VE GIDA \u00DCR\u00DCNLER\u00DD A.\u00DE. - Catlak i\u00E7in %0,55 (Hafta: 30)"
+  },
+  {
+    "Id": 2,
+    "TedarikciId": 4445,
+    "YumurtaTipi": 0,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0065,
+    "TamAciklama": "ABALIO\u00D0LU BALIK VE GIDA \u00DCR\u00DCNLER\u00DD A.\u00DE. - KirliYumurta i\u00E7in %0,65 (Hafta: 30)"
+  },
+  {
+    "Id": 3,
+    "TedarikciId": 4110,
+    "YumurtaTipi": 0,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0062,
+    "TamAciklama": "MNS YUMURTA HAYVANCILIK VE TAR. \u00DCR. SAN. T\u00DDC. LTD. \u00DET\u00DD. - KirliYumurta i\u00E7in %0,62 (Hafta: 30)"
+  },
+  {
+    "Id": 4,
+    "TedarikciId": 4110,
+    "YumurtaTipi": 1,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0052,
+    "TamAciklama": "MNS YUMURTA HAYVANCILIK VE TAR. \u00DCR. SAN. T\u00DDC. LTD. \u00DET\u00DD. - Catlak i\u00E7in %0,52 (Hafta: 30)"
+  },
+  {
+    "Id": 5,
+    "TedarikciId": 2623,
+    "YumurtaTipi": 1,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0055,
+    "TamAciklama": "PROTE\u00DDN YUMURTA HAY. \u00DDN\u00DE. GID. OTOM. NAKL. \u00DDTH. \u00DDHR. SAN. T\u00DDC. LTD. \u00DET\u00DD. - Catlak i\u00E7in %0,55 (Hafta: 30)"
+  },
+  {
+    "Id": 6,
+    "TedarikciId": 6678,
+    "YumurtaTipi": 1,
+    "HaftaNumarasi": 30,
+    "Oran": 0.0055,
+    "TamAciklama": "OKAN YE\u00DE\u00DDL - Catlak i\u00E7in %0,55 (Hafta: 30)"
+  }
+]

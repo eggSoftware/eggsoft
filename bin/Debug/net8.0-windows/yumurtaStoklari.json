@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "YumurtaTipi": 0,
+    "YumurtaSinifi": null,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "KirliYumurta"
+  },
+  {
+    "Id": 2,
+    "YumurtaTipi": 1,
+    "YumurtaSinifi": null,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "Catlak"
+  },
+  {
+    "Id": 3,
+    "YumurtaTipi": 2,
+    "YumurtaSinifi": null,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "ZarCatlagi"
+  },
+  {
+    "Id": 4,
+    "YumurtaTipi": 3,
+    "YumurtaSinifi": null,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "Klavuz"
+  },
+  {
+    "Id": 5,
+    "YumurtaTipi": null,
+    "YumurtaSinifi": 0,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "Duble"
+  },
+  {
+    "Id": 6,
+    "YumurtaTipi": null,
+    "YumurtaSinifi": 1,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "EskiAna"
+  },
+  {
+    "Id": 7,
+    "YumurtaTipi": null,
+    "YumurtaSinifi": 2,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "YeniAna"
+  },
+  {
+    "Id": 8,
+    "YumurtaTipi": null,
+    "YumurtaSinifi": 3,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "Yarka"
+  },
+  {
+    "Id": 9,
+    "YumurtaTipi": null,
+    "YumurtaSinifi": 4,
+    "MevcutAdet": 0,
+    "MevcutKg": 0,
+    "StokAdi": "Pilic"
+  }
+]
